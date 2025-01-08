@@ -1,0 +1,13 @@
+# virtual environment
+myRAGBotVenv/
+
+# LlamaIndex storage
+storage/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+.vs/

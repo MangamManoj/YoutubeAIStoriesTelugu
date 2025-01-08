@@ -1,0 +1,14 @@
+Give me a python code to build a document QA chatbot or RAG Chatbot. Consider the following while generating the code. 
+1. Use Llamaindex and streamlit libraries. A sample code is attached for your reference.
+2. Use gpt-3.5-turbo LLM & text-embedding-3-small for embeddings generation
+3. Have the API keys in a .env file 
+Functionality:
+4. The bot should have memory
+5. The bot should be able to answer generic queries too
+6. The bot should accept multiple documents and should support 'pdf', 'txt', and 'docx' document types
+UI/UX
+7. The title of the bot should include my name -"Manoj"
+8. The bot should stream responses 
+9. Have the document uploading thing in the sidebar
+10. Have good looking icons for the human & bot 
+11. Have a good looking UI
